@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\meesh\AndroidStudioProjects\newsdroid-master\app\app.iml" filepath="C:\Users\meesh\AndroidStudioProjects\newsdroid-master\app\app.iml" />
+      <module fileurl="file://C:\Users\meesh\AndroidStudioProjects\newsdroid-master\newsdroid.iml" filepath="C:\Users\meesh\AndroidStudioProjects\newsdroid-master\newsdroid.iml" />
+      <module fileurl="file://C:\Users\Nimra\AndroidStudioProjects\newsdroid-master-master\newsdroid-master.iml" filepath="C:\Users\Nimra\AndroidStudioProjects\newsdroid-master-master\newsdroid-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsdroid-master-master.iml" filepath="$PROJECT_DIR$/newsdroid-master-master.iml" />
+    </modules>
+  </component>
+</project>
